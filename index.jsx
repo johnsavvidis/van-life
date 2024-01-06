@@ -16,6 +16,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
+        <Route path="/vans" element={<h1>Vans page goes here 🚐</h1>} />
       </Routes>
     </BrowserRouter>
   )
