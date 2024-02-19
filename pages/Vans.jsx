@@ -8,7 +8,9 @@ export default function Vans() {
     }, [])
     
     return (
-        <h1>Vans page goes here 🚐</h1>
-        <button>More vans here!</button>
+        <div>
+            <h1>Vans page goes here 🚐</h1>
+            <button>More vans here!</button>
+        </div>
     )
 }
